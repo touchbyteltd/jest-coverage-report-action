@@ -17,7 +17,7 @@
         "@emotion/react": "^11.4.0",
         "@emotion/styled": "^11.3.0",
         "@monaco-editor/react": "^4.2.0",
-        "@primer/components": "^28.2.3",
+        "@primer/components": "^28.5.0",
         "@primer/octicons-react": "^14.2.2",
         "framer-motion": "^4.1.17",
         "gray-matter": "^4.0.3",
